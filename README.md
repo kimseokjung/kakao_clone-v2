@@ -1,2 +1,4 @@
-# kakao_clone-v2
-kakao clone version2
+# kakao-clone
+
+
+kakao Desktop App clone
